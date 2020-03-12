@@ -9,19 +9,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://116.228.101.34:667/app/FengXianHeZhaProgect.ipa</string>
+                    <string>https://github.com/0crash9/firstDemo/blob/master/FristDemo.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>title</key>
-                <string>奉贤河道水闸</string>
+                <string>水政执法巡查监控系统</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>bundle-identifier</key>
-                <string>www.wavenet.com.FengXianHeZhaProgect</string>
+                <string>com.wavenet.shuizhengzhixingjianchaxitong</string>
             </dict>
         </dict>
     </array>
